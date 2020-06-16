@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/marie/Documents/GitHub/WCOM1011-3D-Practicals/wcom1011-3d-prac/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
