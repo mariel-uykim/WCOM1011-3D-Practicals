@@ -65,6 +65,10 @@
     <Compile Include="Assets\Interactivity\TriggerToAnim.cs" />
     <Compile Include="Assets\Models\poisondartfrog\ToxicFrogs\FrogController.cs" />
     <Compile Include="Assets\Models\poisondartfrog\ToxicFrogs\RotateCamFrog.cs" />
+    <Compile Include="Assets\Navigation Scripts\EnemyChase.cs" />
+    <Compile Include="Assets\Navigation Scripts\EnemyPatrol.cs" />
+    <Compile Include="Assets\Navigation Scripts\GoalMover.cs" />
+    <Compile Include="Assets\Navigation Scripts\GoalSetting.cs" />
     <None Include="Assets\Textures\readme.txt" />
     <Reference Include="Unity.ProBuilder.AddOns.Editor">
       <HintPath>C:/Users/marie/Documents/GitHub/WCOM1011-3D-Practicals/wcom1011-3d-prac/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
